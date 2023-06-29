@@ -1,7 +1,7 @@
 {
-  "name": "cms-client",
+  "name": "client",
   "version": "1.0.0",
-  "description": "The web client for the cms",
+  "description": "The web client for the turbo repo",
   "main": "index.js",
   "author": "Prajwal264",
   "license": "MIT",
